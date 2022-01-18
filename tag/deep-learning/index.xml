@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Sahil Yerawar</title>
+    <link>https://ysahil97.github.io/tag/deep-learning/</link>
+      <atom:link href="https://ysahil97.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 18:50:34 +0530</lastBuildDate>
+    <image>
+      <url>https://ysahil97.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://ysahil97.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Digital Flight Manual</title>
+      <link>https://ysahil97.github.io/project/digital-flight-manual/</link>
+      <pubDate>Fri, 14 Jan 2022 18:50:34 +0530</pubDate>
+      <guid>https://ysahil97.github.io/project/digital-flight-manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Indic Datasets</title>
+      <link>https://ysahil97.github.io/project/iitkgp-research-intern/</link>
+      <pubDate>Fri, 14 Jan 2022 18:39:04 +0530</pubDate>
+      <guid>https://ysahil97.github.io/project/iitkgp-research-intern/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
